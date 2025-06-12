@@ -1,0 +1,5 @@
+module-uploader/
+├─ index.js          ← Web Server ตัวรับและอัปโหลดโมเดล
+├─ package.json      ← จัดการ dependencies (Express, Axios, dotenv)
+├─ .env.template     ← ใส่ค่า API_KEY และ GROUP_ID ของคุณ
+├─ README.md         ← วิธีติดตั้งและใช้งาน
